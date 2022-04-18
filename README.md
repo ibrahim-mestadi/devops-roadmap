@@ -2,7 +2,7 @@
 
 * [English](README.md)
 * [中文版](README.cn.md)
-* [Français](READMEFR.md)
+* [Français](README.fr.md)
 
 # 1. DevOps
 
